@@ -13,6 +13,7 @@ from new_file_Markov import Markov
 from random_words import RandomWords
 import random
 
+
 def makeWordModel(filename):
     '''creates a Morkov model from the words in the file with filename.
     pre: The file with name filename exists.

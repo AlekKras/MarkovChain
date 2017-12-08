@@ -3,7 +3,6 @@ Modifications:
 1) Using trigram in base state (None, None, None)
 '''
 import random
-
 class Markov(object):
 
     def __init__(self):

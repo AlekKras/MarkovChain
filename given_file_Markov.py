@@ -1,7 +1,5 @@
 # Given file
 import random
-
-
 class Markov(object):
     """A simple trigram Markov model.  The current state is a sequence
        of the two words seen most recently. Initially, the state is

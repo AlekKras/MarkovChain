@@ -1,5 +1,4 @@
 # Given file
-
 from given_file_Markov import Markov
 
 def makeWordModel(filename):
